@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\models\\askresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\models\\askresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\models\\askrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\models\\askrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\services\\gptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\services\\gptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\data\\inmemoryvectorstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\data\\inmemoryvectorstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\services\\vectorsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\services\\vectorsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\services\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\services\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|c:\\users\\tp.ismailkasan\\source\\repos\\rag.sample\\rag.sample\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3A7D58-A295-497B-A9C3-12C8D12D8761}|Rag.Sample\\Rag.Sample.csproj|solutionrelative:rag.sample\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Rag.Sample\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\appsettings.Development.json",
+              "RelativeToolTip": "Rag.Sample\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T13:03:51.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "Rag.Sample\\appsettings.json",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\appsettings.json",
+              "RelativeToolTip": "Rag.Sample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T13:03:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Models\\AskResponse.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Models\\AskResponse.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Models\\AskResponse.cs",
+              "RelativeToolTip": "Rag.Sample\\Models\\AskResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:02:03.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Models\\AskRequest.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Models\\AskRequest.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Models\\AskRequest.cs",
+              "RelativeToolTip": "Rag.Sample\\Models\\AskRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:01:51.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GptService.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Services\\GptService.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Services\\GptService.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Services\\GptService.cs",
+              "RelativeToolTip": "Rag.Sample\\Services\\GptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:01:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryVectorStore.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Data\\InMemoryVectorStore.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Data\\InMemoryVectorStore.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Data\\InMemoryVectorStore.cs",
+              "RelativeToolTip": "Rag.Sample\\Data\\InMemoryVectorStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:00:40.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VectorSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Services\\VectorSearchService.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Services\\VectorSearchService.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Services\\VectorSearchService.cs",
+              "RelativeToolTip": "Rag.Sample\\Services\\VectorSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:59:58.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Program.cs",
+              "RelativeToolTip": "Rag.Sample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:57:17.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmbeddingService.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Services\\EmbeddingService.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Services\\EmbeddingService.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Services\\EmbeddingService.cs",
+              "RelativeToolTip": "Rag.Sample\\Services\\EmbeddingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:59:24.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AskController.cs",
+              "DocumentMoniker": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Controllers\\AskController.cs",
+              "RelativeDocumentMoniker": "Rag.Sample\\Controllers\\AskController.cs",
+              "ToolTip": "C:\\Users\\tp.ismailkasan\\source\\repos\\Rag.Sample\\Rag.Sample\\Controllers\\AskController.cs",
+              "RelativeToolTip": "Rag.Sample\\Controllers\\AskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:57:50.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:104:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:105:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:62:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:76:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:80:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:81:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:87:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:98:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
